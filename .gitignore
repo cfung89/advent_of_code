@@ -1,2 +1,5 @@
+*.input
+*.test
+
 data.txt
 test*.txt
